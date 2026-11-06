@@ -5,3 +5,10 @@ Drop in multiple images to create a grid out of those images fitted to a rectang
 
 <img width="1135" height="843" alt="image" src="https://github.com/user-attachments/assets/0f20e2a6-f47d-49cd-a515-0afb82e7235f" />
 
+Credits:
+- Python, application runtime.
+- Tcl/Tk, desktop interface.
+- Pillow, image loading, resizing, and grid rendering.
+- MozJPEG, JPG encoding.
+- libjpeg-turbo and the Independent JPEG Group, underlying JPEG codec code.
+- PyInstaller, standalone application packaging.
